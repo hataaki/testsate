@@ -106,4 +106,3 @@ fukushi-recruit/
 ## ライセンス
 
 © 2020-2026 放課後等デイサービス クラップ. All rights reserved.
-# testsate
